@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/regexwizard/regexwizard-2.1.2.zip
+▶︎ https://ensili.co/download/regexwizard/regexwizard-2.1.3.zip
 
 # Official Website
 
